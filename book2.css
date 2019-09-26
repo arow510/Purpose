@@ -1,0 +1,69 @@
+/*
+  colors I like
+  #C4ACEB
+  #97A53A
+  #394299
+  #83C698
+  #A69A3A
+  #66CDAA
+  #000000
+  #87CEFA
+  #2E8B57
+*/
+
+body {
+	background-color: #2E8B57;
+	margin: auto;
+	width: 80%;
+}
+h1 {
+	background-color: white;
+	border: thick solid #97A53A;
+	color: #97A53A;
+	margin: auto;
+	padding: 10px;
+	text-align: center;
+}
+.booklist {
+	padding: 5px;
+	
+}
+.book {
+	background-color: #FFFFFF;
+	border: thick solid #394299;
+	padding: 5px;
+	margin: 5px;
+	display: block;
+}
+ul li {
+	display: block;
+	margin-left:-20px;
+}
+.thumb {
+	float: right;
+}
+.title {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+.level {
+	font-size: 80%;
+}
+.author {
+	font-style: italic;
+}
+.issue {
+	font-variant: small-caps;
+}
+.clearme {
+	clear: right;
+	width: 0pt;
+}
+a:link, a:visited {
+	color: #83C698;
+	text-decoration: none;
+}
+a:hover, a:active {
+	color: #A69A3A;
+	text-decoration: none;
+}
